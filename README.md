@@ -21,8 +21,6 @@ Demo :- https://avinesh30.github.io/Meals-App/
 
 ## Installation
 
-Install my-project with npm
-
 Just download the zip file and run on the LIVE_SERVER.
     
 ## Tech Used
